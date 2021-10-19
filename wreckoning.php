@@ -1,0 +1,13 @@
+<?php require_once 'engine/init.php'; include 'layout/overall/header_maps.php'; ?>
+
+
+
+<div class="BoxContent" style="background-image:url(https://static.tibia.com/images/global/content/scroll.gif);">
+<center><h3>Wreckoning</h3></center><center><img border="2" src="https://static.tibia.com/images/library/map_wreckoning.jpg"></center><br>The first camp at Wreckoning was founded by Rattila the Conqueror. He and his men were fleeing on a makeshift raft after one of his many failed conquers. By chance they arrived at a shipwreck that was stuck on a reef and stranded there. Rattila made it their headquarter, claiming this had been his great plan all along.<br>
+It was here where the Corym made the fateful discovery of a book full of tales about pirates. Inspired the ambitious Rattila saw a new path to even more greatness. He and his men repaired their raft and managed to steal a ship in a night raid. In an astonishing feat, they managed to sail their ship to the Wreckoning reef, where they immediately collided with the rocks - just as planned by Rattila, at least that's what he claimed.<br>
+Over time some more wrecks were added to the collection, but only after Rattila had died tragically, the base saw heavy modifications. Rattila died, purely accidentally of course, during a presentation of the newly discovered green powder. Its inventor Rattacus claimed leadership for himself. The mad Corym scientist not only pressed for the research of green powder but also had Wreckoning changed and expanded in a way that only a mad genius could come up with. Using his knowledge and - only occasionally - some somewhat flawed mechanical inventions, Wreckoning turned into the architect's nightmare it is today.<br>
+When the topmost ship, in which Rattacus resided, blew up in in a really absolutely unforeseeable and completely random accident, the really honestly grieving Blackwhiskers, the greatest of the Pirat captains, took the lead, but only very, very reluctantly. Under his obviously well-deserved leadership, Pirat activity increased and Wreckoning prospered immensely.<br>
+In our days the wreck-city is brimming with Pirat crews. Ships come and go on a constant base. Though the wreck-city claims a unique status amongst the cities of the world, there are persistent rumours about a secret super weapon, whose construction was started under Rattacus' regency. Whispered stories amongst the Pirats tell of a swimming version of Wreckoning, stuffed with the finest green powder weaponry and capable of taking whole cities out on its own. If this ship, the fabled 'Even more Wreckoning' truly exists, the world might be facing some dark days in the future. </div>
+
+<?php
+include 'layout/overall/footer.php'; ?>
